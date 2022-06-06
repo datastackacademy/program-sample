@@ -1,0 +1,4 @@
+user: loader
+pswd: mypass
+host: 127.0.0.1:3306
+database: dsadeb_flights

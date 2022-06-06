@@ -1,0 +1,2 @@
+jupyterlab==3.3.3
+Faker==13.3.4

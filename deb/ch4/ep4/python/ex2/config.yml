@@ -1,0 +1,6 @@
+project: deb-01
+dataset: sandbox
+airports_table: airports
+routes_table: routes
+airlines_table: airlines
+aircraft_table: aircrafts
