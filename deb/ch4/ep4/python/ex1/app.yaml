@@ -1,0 +1,30 @@
+
+# You can see the google docs for the full list of options in app.yaml:
+#  https://cloud.google.com/appengine/docs/standard/python3/config/appref
+# 
+
+# python runtime version: python37 (3.7), python38 (3.8), python39 (3.9), python310 (3.10)
+runtime: python37
+
+# a unique name for this GCP service name. assign any name.
+# **note**: the very first service deployed to a project must be called "default"
+service: default
+
+# the service account email. this service account is used to access all other GCP service when
+# running this app
+# you can comment this out and gcp will create a default service account when you deploy the app
+# service_account: __service_account_email__
+
+
+# GCP compute instance type. See the full list: https://cloud.google.com/appengine/docs/standard#instance_classes
+# **note**: B1 is the smallest instance type. using higher instances will cost you more $$$
+instance_class: B1
+
+# scaling options
+# **note**: 
+#     until you know what you doing, ALWAYS use this scaling option. This scaling option has the minimum 
+#     cloud usage and costs very little. This options also allows you to turn off this service later and 
+#     stop incurring charges on it.
+basic_scaling:
+  max_instances: 1
+  idle_timeout: 5m

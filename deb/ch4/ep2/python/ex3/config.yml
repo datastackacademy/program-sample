@@ -1,0 +1,4 @@
+user: root
+pswd: mysql
+host: localhost:3306
+database: dsadeb_flights

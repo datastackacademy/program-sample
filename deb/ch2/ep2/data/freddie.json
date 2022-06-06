@@ -1,0 +1,19 @@
+{
+    "name": "Freddie Mercury",
+    "born": "Farrokh Bulsara",
+    "birth_date": "5 September 1946",
+    "nationality": "British",
+    "occupation": "Singer, Song Writer",
+    "age": 45,
+    "status": "Legend",
+    "biography": {
+        "early_life": "Mercury was born Farrokh Bulsara in Stone Town in the British protectorate of Zanzibar.",
+        "vocals": "Although Mercury's speaking voice naturally fell in the baritone range, he delivered most songs in the tenor range.",
+        "song_writing": "Mercury wrote 10 of the 17 songs on Queen's Greatest Hits album: \"Bohemian Rhapsody\", \"Killer Queen\", ...",
+        "relationships": "In the early 1970s, Mercury had a long-term relationship with Mary Austin. By 1985, he began another long-term relationship with Irish-born hairdresser Jim Hutton"
+    },
+    "tributes": [
+        "Statue of Freddie Mercury overlooking Lake Geneva in Montreux, Switzerland",
+        "Mercury statue above the West End's Dominion Theatre"
+    ]
+}

@@ -1,0 +1,9 @@
+runtime: python37
+
+service: dsa-airspace
+
+instance_class: B1
+
+manual_scaling:
+  instances: 1
+

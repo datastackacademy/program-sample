@@ -1,0 +1,8 @@
+{
+    "name": "testing",
+    "columns": [
+        "myID int",
+        "myname varchar(255)",
+        "height float"
+    ]
+}

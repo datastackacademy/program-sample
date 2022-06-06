@@ -1,0 +1,13 @@
+# You can see the google docs for the full list of options in app.yaml:
+#  https://cloud.google.com/appengine/docs/standard/python3/config/appref
+# 
+
+runtime: python37
+service: dsa-airspace
+# comment this line to use the default appengine service account
+service_account: deb-01-sa@deb-01.iam.gserviceaccount.com
+
+instance_class: B1
+basic_scaling:
+  max_instances: 1
+  idle_timeout: 5m

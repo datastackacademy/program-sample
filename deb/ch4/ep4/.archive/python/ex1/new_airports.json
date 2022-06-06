@@ -1,0 +1,34 @@
+{
+    "name": "airports",
+    "index": "iata",
+    "data": {
+        "iata":{
+            "0": "NEW",
+            "1": "FAKE"
+        },
+        "airport":{
+        "0":"Lakefront Updated",
+        "1":"Fake airport"
+        },
+        "city":{
+        "0":"New Orleans",
+        "1":"Nowhere"
+        },
+        "state":{
+        "0":"LA",
+        "1":"NO"
+        },
+        "country":{
+        "0":"USA",
+        "1":"USA"
+        },
+        "lat":{
+        "0":30.04242056,
+        "1":0.0
+        },
+        "lon":{
+        "0":-90.02825694,
+        "1":0.0
+        }
+    }
+}
