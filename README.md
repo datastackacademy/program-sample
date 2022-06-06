@@ -3,8 +3,8 @@
 This repository is a small sample of the [Data Stack Academy](https://datastack.academy) bootcamp program.
 
 This sample includes:
-- Portions of [Chapter 2](./deb/ch2/): working with files
-- [Chapter 4](./deb/ch4/): Working with APIs
+- Portions of [Chapter 2](./chapters/ch2/): working with files
+- [Chapter 4](./chapters/ch4/): Working with APIs
 
 
 ### Structure
